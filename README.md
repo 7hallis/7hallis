@@ -1,10 +1,8 @@
 ## Olá, eu sou Thallis Nunes
 <p> Sou formado na Universidade do Estado de Minas Gerais (UEMG) de Carangola-MG no curso, Bacharelado de Sistemas de Informação. <br> Atualmente estudando Javascript e suas tecnologias. </p>
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thallisffc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7hallis/)
-[![Gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/7hallis)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/7hallis)
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=7hallis&show_icons=true&theme=dracula " />
 
