@@ -1,4 +1,5 @@
-## Olá eu sou Thallis Nunes
+## Olá, eu sou Thallis Nunes
+<p> Sou formado na Universidade do Estado de Minas Gerais (UEMG) de Carangola-MG no curso, Bacharelado de Sistemas de Informação. <br> Atualmente estudando Javascript e suas tecnologias. </p>
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thallisffc@gmail.com)
@@ -26,5 +27,4 @@
 
 <br>
 
-Atualmente estudando Javascript e treinando para me tornar programador.
-Amante de tecnologias e de programação.
+Treinando para me tornar programador. <br> Amante de tecnologias e de programação.
