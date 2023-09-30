@@ -18,7 +18,7 @@
 <p></p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7hallis&layout=compact" />
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Tecnologias que uso no meu dia a dia
 
