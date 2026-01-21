@@ -25,7 +25,7 @@ colaborar com a comunidade tecnológica.
 </div>
 <br>
 
-* **Estruturas e blibiotecas**
+* **Estruturas e bibliotecas**
 
 <div style="display: inline_block">
 <img aline="center" alt="next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
